@@ -1,0 +1,29 @@
+# Generic
+numpy==1.26.4
+matplotlib==3.8.3
+mplcursors==0.5.3
+pandas==2.2.1
+pandas-datareader==0.10.0
+
+# Optimization
+tables==3.10.1
+openpyxl==3.1.2
+xlrd==2.0.1
+pyomo==6.7.1
+# glpk
+scikit-glpk==0.5.0
+psutil==5.9.8
+pyutilib==6.0.0
+prettytable==3.11.0
+
+# Prediction
+astral==3.2
+tqdm==4.66.5
+scikit-image==0.19.3
+scikit-learn==1.5.1
+scipy==1.14.1
+seaborn==0.13.2
+torch==2.4.1
+
+# Control
+paho-mqtt==1.6.1

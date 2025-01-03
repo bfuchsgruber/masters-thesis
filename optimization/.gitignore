@@ -1,0 +1,8 @@
+*~
+*.pyc
+.idea/*
+result/*
+output/*
+results/*
+doc/_build/*
+teaching/.ipynb_checkpoints

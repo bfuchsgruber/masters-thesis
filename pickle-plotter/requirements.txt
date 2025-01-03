@@ -1,0 +1,2 @@
+pickleshare==0.7.5
+mplcursors==0.5.3
